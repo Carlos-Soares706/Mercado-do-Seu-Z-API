@@ -1,0 +1,19 @@
+{
+    "name": "mercado-do-seu-ze-api",
+    "version": "1.0.0",
+    "description": "API para o Mercado do Seu Zé",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.0",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.7.0"
+    }
+}
